@@ -19,7 +19,7 @@ Now you have Bedrock Linux!
 
 # Extra
 You can install stratums with `sudo brl fetch`<br>
-The two ones to install first are:
+Some good starting ones are:
 ```
 $ sudo brl fetch debian -r bookworm # Debian testing
 $ sudo brl fetch arch # Arch linux for Aur
