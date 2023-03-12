@@ -24,7 +24,7 @@ Some good starting ones are:
 $ sudo brl fetch debian -r bookworm # Debian testing
 $ sudo brl fetch arch # Arch linux for Aur
 ```
-Then you can use `pacman` and `apt`
+Then you can use `pacman` and `apt`<br>
 Also dont forget to update every once in a while with:
 ```
 $ sudo brl update
