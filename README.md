@@ -2,7 +2,7 @@
 Install Bedrock Linux ontop of Void on a Macbook Air Early 2014 (macbookair6,2)
 
 # Main
-Install Void if you havent: Tutorial: https://github.com/aspen-arc/void-on-macbookair62
+Install Void if you havent: Tutorial: https://github.com/aspen-arc/void-on-macbookair62<br>
 Then:
 
 ```
@@ -18,7 +18,7 @@ Reboot.<br>
 Now you have Bedrock Linux!
 
 # Extra
-You can install stratums with `sudo brl fetch`
+You can install stratums with `sudo brl fetch`<br>
 The two ones to install first are:
 ```
 sudo brl fetch debian -r bookworm # Debian testing
